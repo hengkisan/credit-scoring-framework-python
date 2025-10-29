@@ -6,11 +6,13 @@ This repository provides a **ready-to-use foundation** for building, validating,
 
 # 📁 Project Structure
 
+```text
 credit-scoring-framework-python/
 │
 ├── data.csv                  # Example dataset
 ├── scorecard.py              # Core framework (Scorecard class)
 └── scorecardNotebook.ipynb   # Notebook example and demonstration
+```text
 
 
 ## ⚙️ Features
