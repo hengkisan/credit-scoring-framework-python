@@ -4,7 +4,7 @@ A **modular and automated Python framework** for credit scoring model developmen
 
 This repository provides a **ready-to-use foundation** for building, validating, and deploying explainable credit scoring systems.
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 credit-scoring-framework-python/
 │
