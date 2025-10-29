@@ -55,7 +55,7 @@ credit-scoring-framework-python/
 
 ```bash
 pip install pandas numpy scikit-learn optbinning tqdm
-
+```
 ## 2️⃣ Run the example notebook
 
 Open **`scorecardNotebook.ipynb`** to explore a full demonstration of:
