@@ -6,16 +6,14 @@ This repository provides a **ready-to-use foundation** for building, validating,
 
 # 📁 Project Structure
 
-```text
 credit-scoring-framework-python/
 │
 ├── data.csv                  # Example dataset
 ├── scorecard.py              # Core framework (Scorecard class)
 └── scorecardNotebook.ipynb   # Notebook example and demonstration
-```text
 
 
-## ⚙️ Features
+# ⚙️ Features
 
 - **Automated Data Preprocessing** — handles feature cleaning, missing value encoding, and transformations.  
 - **Optimal Monotonic Binning** — uses entropy-based algorithms via `optbinning` to ensure monotonicity and interpretability.  
@@ -24,9 +22,8 @@ credit-scoring-framework-python/
 - **Score Scaling** — converts model outputs into score contributions using PDO, base odds, and base score.  
 - **Performance Evaluation** — computes AUC, cross-validation stability, and OOT performance metrics.
 
----
 
-## 🧠 Methodology Overview
+# 🧠 Methodology Overview
 
 1. **Data Preparation**  
    - Input data with binary performance target (good/bad).  
@@ -52,14 +49,14 @@ credit-scoring-framework-python/
    - PSI / IV drift checks for stability.
 
 
-## 🚀 Quick Start
+# 🚀 Quick Start
 
-### 1️⃣ Install dependencies
+## 1️⃣ Install dependencies
 
 ```bash
 pip install pandas numpy scikit-learn optbinning tqdm
 
-### 2️⃣ Run the example notebook
+## 2️⃣ Run the example notebook
 
 Open **`scorecardNotebook.ipynb`** to explore a full demonstration of:
 
@@ -69,7 +66,7 @@ Open **`scorecardNotebook.ipynb`** to explore a full demonstration of:
 - AUC evaluation and interpretation
 
 
-### 3️⃣ (Optional) Run the framework directly
+## 3️⃣ (Optional) Run the framework directly
 
 ```bash
 python scorecard.py
