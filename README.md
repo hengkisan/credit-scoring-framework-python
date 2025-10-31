@@ -24,7 +24,7 @@ credit-scoring-framework-python/
 
 
 # 🧠 Methodology Overview
-<img width="2267" height="602" alt="download (3)" src="https://github.com/user-attachments/assets/5ffe1e00-3132-4b88-a296-d555379b87d3" />
+<img width="1143" height="542" alt="download (3)" src="https://github.com/user-attachments/assets/830dc60c-3688-49f5-b501-a5c1cb55ebf4" />
 
 
 1. **Data Preparation**  
