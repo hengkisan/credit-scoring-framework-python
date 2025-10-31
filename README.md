@@ -44,8 +44,6 @@ credit-scoring-framework-python/
   \text{Score} = C - M \times \ln\left(\frac{P(\text{bad})}{1 - P(\text{bad})}\right)
   $$
 
-      - Output JSON mapping bins → scores.
-
 5. **Evaluation**  
    - Cross-validation AUC, in-time vs. OOT comparison.  
    - PSI / IV drift checks for stability.
