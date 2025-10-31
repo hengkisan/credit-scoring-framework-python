@@ -24,7 +24,8 @@ credit-scoring-framework-python/
 
 
 # 🧠 Methodology Overview
-![Credit Scoring Flow](https://user-images.githubusercontent.com/1234567/abcdef123456.png)
+<img width="2267" height="602" alt="download (3)" src="https://github.com/user-attachments/assets/5ffe1e00-3132-4b88-a296-d555379b87d3" />
+
 
 1. **Data Preparation**  
    - Input data with binary performance target (good/bad).  
