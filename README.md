@@ -46,7 +46,6 @@ credit-scoring-framework-python/
 
 5. **Evaluation**  
    - Cross-validation AUC, in-time vs. OOT comparison.  
-   - PSI / IV drift checks for stability.
 
 
 # 🚀 Quick Start
